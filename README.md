@@ -7,8 +7,6 @@
 
 - 👨‍💻 You can see my project at in **Replit** [https://replit.com/@ChaniZiv]
 
-- 📖  Currently learning Python and React.
-
 - 📫 How to reach me **p0548453160@gmail.com**
 
 
